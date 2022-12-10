@@ -8,6 +8,6 @@ package ONG.Controller;
  *
  * @author Elissa
  */
-public class ControladorAnimaisCadastrados {
+public class ControladorListaAnimais {
     
 }
